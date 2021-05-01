@@ -20,6 +20,10 @@ btns.forEach(function(btn){
 	if(l == 'Unlike') { btn.click(); }
 });
 
-copy script at your chrome developer console, press enter to execute, reload page, repeat until no more followed/liked accounts/tracks.
+copy script and paste it to your chrome developer console, press enter to execute, reload page, repeat until no more followed/liked accounts/tracks.
 
 You should watch video demo on youtube :
+https://www.youtube.com/watch?v=vicwq1PS4vQ
+
+mychannel :
+https://www.youtube.com/c/freeangelz?sub_confirmation=1
